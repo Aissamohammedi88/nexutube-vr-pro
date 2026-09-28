@@ -276,8 +276,7 @@ NEXUS-OPEN-2.0 — Voir LICENSE
 Aissa Mohammedi (DGK)
 
 · 🧬 Systèmes autonomes · IA · Cloud · Sécurité
-· 🔗 LinkedIn
-· 🐙 GitHub
+· 🔗 LinkedIn https://ca.linkedin.com/in/aissa-mohammedi-2308743b2?trk=public_post_feed-actor-name
 
 ---
 
@@ -310,7 +309,7 @@ NexuTube — v2.1.0 — Aissa Mohammedi (DGK) — 2026
 
 ---
 
-## ✅ **CE QUE CE README CONTIENT**
+## ✅ 
 
 | Élément | Statut |
 |---------|--------|
